@@ -1,0 +1,64 @@
+{
+    "number": 1,
+    "level": "Present Simple",
+    "verbs": [
+        {
+            "id": 1,
+            "text": "I read everyday.",
+            "sound": "raw/en/en_1_1.mp3",
+            "valid": [
+                "i read every day",
+                "i read everyday"
+            ]
+        },
+        {
+            "id": 2,
+            "text": "They read every evening.",
+            "sound": "raw/en/en_1_2.mp3",
+            "valid": [
+                "they read every evening"
+            ]
+        },
+        {
+            "id": 3,
+            "text": "She reads every morning.",
+            "sound": "raw/en/en_1_2.mp3",
+            "valid": [
+                "she reads every morning"
+            ]
+        },
+        {
+            "id": 4,
+            "text": "We read every evening.",
+            "sound": "raw/en/en_1_3.mp3",
+            "valid": [
+                "we read every evening"
+            ]
+        },
+        {
+            "id": 5,
+            "text": "They read every evening.",
+            "sound": "raw/en/en_1_4.mp3",
+            "valid": [
+                "they read every evening"
+            ]
+        },
+        {
+            "id": 6,
+            "text": "You read every Monday.",
+            "sound": "raw/en/en_1_5.mp3",
+            "valid": [
+                "you read every monday",
+                "play everyday"
+            ]
+        },
+        {
+            "id": 7,
+            "text": "It read often.",
+            "sound": "raw/en/en_1_5.mp3",
+            "valid": [
+                "it reads often"
+            ]
+        }
+    ]
+}

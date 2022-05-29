@@ -1,0 +1,77 @@
+{
+    "number": 1,
+    "level": "Present Simple",
+    "verbs": [
+        {
+            "id": 1,
+            "text": "I play everyday.",
+            "sound": "raw/en/en_1_1.mp3",
+            "valid": [
+                "i play every day",
+                "i play everyday",
+                "i pray everyday",
+                "ibuprofen"
+            ]
+        },
+        {
+            "id": 2,
+            "text": "They play every day.",
+            "sound": "raw/en/en_1_2.mp3",
+            "valid": [
+                "they play every day",
+                "they weigh everyday",
+                "safeway everyday",
+                "ziply everyday"
+            ]
+        },
+        {
+            "id": 3,
+            "text": "He plays every day.",
+            "sound": "raw/en/en_1_2.mp3",
+            "valid": [
+                "he plays every day",
+                "she plays every day",
+                "he place every day",
+                "key place everyday"
+            ]
+        },
+        {
+            "id": 4,
+            "text": "She plays everyday.",
+            "sound": "raw/en/en_1_3.mp3",
+            "valid": [
+                "she plays everyday",
+                "she weighs everyday",
+                "shoe place everyday"
+            ]
+        },
+        {
+            "id": 5,
+            "text": "You play every day.",
+            "sound": "raw/en/en_1_4.mp3",
+            "valid": [
+                "you play every day"
+            ]
+        },
+        {
+            "id": 6,
+            "text": "We play every day.",
+            "sound": "raw/en/en_1_5.mp3",
+            "valid": [
+                "we play every day",
+                "play everyday"
+            ]
+        },
+        {
+            "id": 7,
+            "text": "It plays every day.",
+            "sound": "raw/en/en_1_5.mp3",
+            "valid": [
+                "it plays every day",
+                "it place everyday",
+                "eat place everyday",
+                "replace every day"
+            ]
+        }
+    ]
+}
