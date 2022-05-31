@@ -137,12 +137,24 @@ export default function Recognition() {
   return (
     <div>
       <p>Microphone: {listening ? 'on' : 'off'}</p>
-      <button id="btnPlay" onClick={playVerb} type="button">
-        {playingBtnName === 'play' ? 'Stop' : 'Play'}
-      </button>
-      <button id="btnRead" onClick={readVerb} type="button">
-        {playingBtnName === 'read' ? 'Stop' : 'Read'}
-      </button>
+      <div className="space-x-1.5 flex">
+        <button
+          id="btnPlay"
+          onClick={playVerb}
+          type="button"
+          className="btn-trainer"
+        >
+          {playingBtnName === 'play' ? 'Stop' : 'Play'}
+        </button>
+        <button
+          id="btnRead"
+          onClick={readVerb}
+          type="button"
+          className="btn-trainer"
+        >
+          {playingBtnName === 'read' ? 'Stop' : 'Read'}
+        </button>
+      </div>
       <div>{items}</div>
     </div>
   )
